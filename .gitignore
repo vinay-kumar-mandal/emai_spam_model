@@ -1,6 +1,6 @@
 .env
-/dataset
-.dataset
+/data
+.data
 /env
 .test.ipynb
 /test.ipynb
