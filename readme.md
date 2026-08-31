@@ -447,6 +447,6 @@ MIT License
 
 ## 👨‍💻 Author
 
-**Vinay Mandal**
+**Vinay Kumar Mandal**
 
 Building and researching machine-learning systems with a focus on practical AI/ML engineering.
